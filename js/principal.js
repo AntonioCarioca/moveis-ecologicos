@@ -1,6 +1,6 @@
 let banners = [
-	"Os melhores do Brasil!",
-	"Qualidade e preço baixo!",
+	"Do lixo ao luxo!",
+	"Reaproveitar é aprobeitar!",
 ]
 
 let bannerAtual = 0
